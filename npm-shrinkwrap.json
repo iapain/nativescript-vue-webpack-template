@@ -1,0 +1,12 @@
+{ 
+  "dependencies": { 
+    "vue-loader": { 
+      "version": "^13.0.1", 
+      "dependencies": { 
+        "js-beautify": { 
+          "version": "1.6.14" 
+        } 
+      } 
+    } 
+  } 
+}
